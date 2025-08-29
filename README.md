@@ -1,5 +1,5 @@
 ###
-
+<img text-aling="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGV3bWVyc3piNTh5MnJsbGUyajh1eXdua2wxOTg3azNyN29ra2ZteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="175"/>
 <h1 align="left">Hello World👋, I'm Gimz!!</h1>
 
 ###
